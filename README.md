@@ -8,4 +8,4 @@ in this repository you will find different projects to train yourself in data mo
 - see posts that friends has added 
 - like and add comments to the posts that other added
 ### Schema Design: 
-![Blank diagram (1)](https://github.com/OmarEssameldinMousa/Database-design-projects/assets/124374760/d410be83-011b-419b-a690-6b6d889c3be7)
+![Blank diagram](https://github.com/OmarEssameldinMousa/Database-design-projects/assets/124374760/59f6ef15-1e9d-47a1-9c27-eef4751ceb76)
